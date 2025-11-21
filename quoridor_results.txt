@@ -1,0 +1,16 @@
+Simulation Summary (10 Games)
+P1 Wins: 4
+P2 Wins: 6
+Draws: 0
+
+Game,Winner,Turns,P1_Walls_Left,P2_Walls_Left
+1,P2 (Wall Conserv),46,0,0
+2,P2 (Wall Conserv),52,0,0
+3,P1 (Distance Only),55,0,0
+4,P1 (Distance Only),55,1,0
+5,P2 (Wall Conserv),54,0,0
+6,P2 (Wall Conserv),56,0,0
+7,P2 (Wall Conserv),56,0,0
+8,P1 (Distance Only),69,0,0
+9,P2 (Wall Conserv),46,0,3
+10,P1 (Distance Only),45,1,0
